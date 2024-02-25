@@ -1,0 +1,15 @@
+.customContainer {
+  margin: 0 10%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.customContainerGuest {
+  margin: 0 10%;
+  display: flex;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+}
